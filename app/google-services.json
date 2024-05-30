@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859233519863",
+    "project_id": "fb-email-login-6ee1e",
+    "storage_bucket": "fb-email-login-6ee1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859233519863:android:cf30a5412f0fa14e966bf2",
+        "android_client_info": {
+          "package_name": "com.sangmoki.fb_email_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWNU3NiptRhxPkPaGtTHnCK-jrNmhnPbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
