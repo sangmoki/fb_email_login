@@ -42,8 +42,6 @@ class MainActivity : AppCompatActivity() {
         
         // 회원가입 버튼 클릭 이벤트        
         joinBtn.setOnClickListener {
-           
-
 
             // 인증객체에 email과 password를 넘겨 신규 계정을 생성한다.
             auth.createUserWithEmailAndPassword(email.text.toString(), password.text.toString())
