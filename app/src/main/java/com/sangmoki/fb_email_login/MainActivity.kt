@@ -51,7 +51,7 @@ class MainActivity : AppCompatActivity() {
                     if (task.isSuccessful) {
                         Toast.makeText(
                             baseContext,
-                            "회원가입이 완료되었습니다.",
+                            "회원가입이 완료.",
                             Toast.LENGTH_SHORT,
                         ).show()
                     // 실패했을 경우 실패 메시지 출력
